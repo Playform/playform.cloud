@@ -3,7 +3,13 @@
 		@apply px-4 py-2;
 	}
 
-	li {
+	.icons {
+		li + li {
+			@apply mt-3;
+		}
+	}
+
+	.links li {
 		+ li {
 			@apply mt-3 sm:ml-3 sm:mt-0;
 		}
@@ -15,5 +21,46 @@
 
 	.icon {
 		@apply h-5 w-5;
+	}
+
+	.button {
+		background-color: #8b4b8b; /* Purple-ish base color */
+		color: white;
+		padding: 2px 5px;
+		border: none;
+		border-radius: 6px; /* Makes the button rounded */
+		font-size: 14px;
+		cursor: pointer;
+		position: relative;
+		display: inline-block;
+
+		/* Creating the double border effect using box-shadow */
+		box-shadow:
+			0 0 0 1px rgba(139, 75, 139, 0.3),
+			0 0 0 4px rgba(89, 48, 89, 0.8);
+
+		/* Velvet texture effect */
+		background-image: radial-gradient(
+				circle at 50% 50%,
+				rgba(255, 255, 255, 0.1) 0%,
+				transparent 60%
+			),
+			radial-gradient(
+				circle at 30% 30%,
+				rgba(255, 255, 255, 0.08) 0%,
+				transparent 40%
+			);
+
+		transition: all 0.3s ease;
+
+		&:hover {
+			background-color: #9d559d;
+			transform: scale(1.02);
+			color: white;
+		}
+
+		&:active {
+			transform: scale(0.98); /* Slight shrink effect when clicked */
+		}
 	}
 }
