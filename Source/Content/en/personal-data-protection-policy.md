@@ -78,7 +78,7 @@ respecting privacy of the concerned individuals.
     early stage in order to take personal data protection aspects into account
     as early as the planning phase.\
     The designated Privacy Manager at PlayForm ltd. is Nikola Hristov
-    <Nikola@PlayForm.Cloud>.
+    <Nikola@PlayForm.LTD>.
 
 3.  **<span class="underline">Definitions.</span>**
 
@@ -471,8 +471,8 @@ consent.
         for handling the DSR from PlayForm employees.
 
     3.  All DSRs from the Users must be addressed at and answered from the
-        following e-mail address: dsr@playform.cloud. DSR from the employees can
-        be addressed directly to the HR manager or at dsr@playform.cloud.
+        following e-mail address: DSR@PlayForm.LTD. DSR from the employees can
+        be addressed directly to the HR manager or at DSR@PlayForm.LTD.
 
     4.  The responsible employee must answer to the DSR within one (1) month
         from receiving the request. If complying with the DSR takes more than
@@ -1067,7 +1067,7 @@ exemptions.
 <td><p>Date</p></td>
 </tr>
 <tr class="even">
-<td>Nikola Hristov <Nikola@PlayForm.Cloud></td>
+<td>Nikola Hristov <Nikola@PlayForm.LTD></td>
 <td>Briefed</td>
 <td>05.25.2018</td>
 </tr>

@@ -57,10 +57,10 @@ Last updated: 02.11.2022 / February 11th 2022
 Welcome to **PlayForm ltd.**.
 
 **PlayForm ltd.** (“**us**”, “**we**”, or “**our**”) operates
-https://playform.cloud and PlayForm mobile application (hereinafter referred to
+https://PlayForm.LTD and PlayForm mobile application (hereinafter referred to
 as “**Service**”).
 
-Our Privacy Policy governs your visit to https://playform.cloud and PlayForm
+Our Privacy Policy governs your visit to https://PlayForm.LTD and PlayForm
 mobile application, and explains how we collect, safeguard and disclose
 information that results from your use of our Service.
 
@@ -75,7 +75,7 @@ together with the Privacy Policy constitutes your agreement with us
 
 ## Definitions
 
-**SERVICE** means the https://playform.cloud website and PlayForm mobile
+**SERVICE** means the https://PlayForm.LTD website and PlayForm mobile
 application operated by **PlayForm ltd.**
 
 **PERSONAL DATA** means data about a living individual who can be identified
@@ -127,7 +127,7 @@ e. Usage Data
 We may use your Personal Data to contact you with newsletters, marketing or
 promotional materials and other information that may be of interest to you. You
 may opt out of receiving any, or all, of these communications from us by
-following the unsubscribe link or by emailing at support@playform.cloud.
+following the unsubscribe link or by emailing at Support@PlayForm.LTD.
 
 **Usage Data**
 
@@ -276,7 +276,7 @@ We aim to take reasonable steps to allow you to correct, amend, delete, or limit
 the use of your Personal Data.
 
 If you wish to be informed what Personal Data, we hold about you and if you want
-it to be removed from our systems, please email us at support@playform.cloud.
+it to be removed from our systems, please email us at Support@PlayForm.LTD.
 
 In certain circumstances, you have the following data protection rights:
 
@@ -329,7 +329,7 @@ c. users will be notified of any privacy policy changes on our Privacy Policy
 Page;
 
 d. users are able to change their personal information by emailing us at
-support@playform.cloud.
+Support@PlayForm.LTD.
 
 Our Policy on “Do Not Track” Signals:
 
@@ -395,7 +395,7 @@ you for exercising your rights.
 To exercise your California data protection rights described above, please send
 your request(s) by one of the following means:
 
-By email: support@playform.cloud
+By email: Support@PlayForm.LTD
 
 By phone number: +359876668093
 
@@ -487,7 +487,7 @@ Changes to this Privacy Policy are effective when they are posted on this page.
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: support@playform.cloud.
+By email: Support@PlayForm.LTD.
 
 By phone number: +359876668093.
 

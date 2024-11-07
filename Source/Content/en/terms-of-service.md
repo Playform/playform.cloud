@@ -71,19 +71,19 @@ have just clicked our Terms of Service, please pause, grab a cup of coffee and
 carefully read the following pages. It will take you approximately 20 minutes.
 
 These Terms of Service (“**Terms**”, “**Terms of Service**”) govern your use of
-our web pages located at https://playform.cloud and our mobile application
+our web pages located at https://PlayForm.LTD and our mobile application
 PlayForm (together or individually “**Service**”) operated by PlayForm ltd.
 
 Our Privacy Policy also governs your use of our Service and explains how we
 collect, safeguard and disclose information that results from your use of our
-web pages. Please read it here https://playform.cloud/Privacy-Policy.
+web pages. Please read it here https://PlayForm.LTD/Privacy-Policy.
 
 Your agreement with us includes these Terms and our Privacy Policy
 (“**Agreements**”). You acknowledge that you have read and understood
 Agreements, and agree to be bound of them.
 
 If you do not agree with (or cannot comply with) Agreements, then you may not
-use the Service, but please let us know by emailing at support@playform.cloud so
+use the Service, but please let us know by emailing at Support@PlayForm.LTD so
 we can try to find a solution. These Terms apply to all visitors, users and
 others who wish to access or use Service.
 
@@ -338,7 +338,7 @@ entity.
 
 If you are a copyright owner, or authorized on behalf of one, and you believe
 that the copyrighted work has been copied in a way that constitutes copyright
-infringement, please submit your claim via email to dmca@playform.cloud, with
+infringement, please submit your claim via email to dmca@PlayForm.LTD, with
 the subject line: “**Copyright Infringement**” and include in your claim a
 detailed description of the alleged Infringement as detailed below, under “DMCA
 Notice and Procedure for Copyright Infringement Claims”
@@ -372,11 +372,11 @@ f. a statement by you, made under penalty of perjury, that the above information
 in your notice is accurate and that you are the copyright owner or authorized to
 act on the copyright owner's behalf.
 
-You can contact our Copyright Agent via email at dmca@playform.cloud
+You can contact our Copyright Agent via email at dmca@PlayForm.LTD
 
 ## Error Reporting and Feedback
 
-You may provide us either directly at support@playform.cloud or via third party
+You may provide us either directly at Support@PlayForm.LTD or via third party
 sites and tools with information and feedback concerning errors, suggestions for
 improvements, ideas, problems, complaints, and other matters related to our
 Service (“**Feedback**”). You acknowledge and agree that:
@@ -527,7 +527,7 @@ READ THESE TERMS OF SERVICE AND AGREE TO BE BOUND BY THEM.
 
 Please send your feedback, comments, requests for technical support:
 
-By email: support@playform.cloud
+By email: Support@PlayForm.LTD
 
 By phone number: +359876668093.
 
