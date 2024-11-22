@@ -21,9 +21,11 @@ declare module 'astro:content' {
 	type Flatten<T> = T extends { [K: string]: infer U } ? U : never;
 
 	export type CollectionKey = keyof AnyEntryMap;
+
 	export type CollectionEntry<C extends CollectionKey> = Flatten<AnyEntryMap[C]>;
 
 	export type ContentCollectionKey = keyof ContentEntryMap;
+
 	export type DataCollectionKey = keyof DataEntryMap;
 
 	type AllValuesOf<T> = T extends any ? T[keyof T] : never;
@@ -53,6 +55,7 @@ declare module 'astro:content' {
 		collection: C,
 		filter?: (entry: CollectionEntry<C>) => entry is E,
 	): Promise<E[]>;
+
 	export function getCollection<C extends keyof AnyEntryMap>(
 		collection: C,
 		filter?: (entry: CollectionEntry<C>) => unknown,
@@ -67,6 +70,7 @@ declare module 'astro:content' {
 	}): E extends ValidContentEntrySlug<C>
 		? Promise<CollectionEntry<C>>
 		: Promise<CollectionEntry<C> | undefined>;
+
 	export function getEntry<
 		C extends keyof DataEntryMap,
 		E extends keyof DataEntryMap[C] | (string & {}),
@@ -76,6 +80,7 @@ declare module 'astro:content' {
 	}): E extends keyof DataEntryMap[C]
 		? Promise<DataEntryMap[C][E]>
 		: Promise<CollectionEntry<C> | undefined>;
+
 	export function getEntry<
 		C extends keyof ContentEntryMap,
 		E extends ValidContentEntrySlug<C> | (string & {}),
@@ -85,6 +90,7 @@ declare module 'astro:content' {
 	): E extends ValidContentEntrySlug<C>
 		? Promise<CollectionEntry<C>>
 		: Promise<CollectionEntry<C> | undefined>;
+
 	export function getEntry<
 		C extends keyof DataEntryMap,
 		E extends keyof DataEntryMap[C] | (string & {}),
@@ -102,6 +108,7 @@ declare module 'astro:content' {
 			slug: ValidContentEntrySlug<C>;
 		}[],
 	): Promise<CollectionEntry<C>[]>;
+
 	export function getEntries<C extends keyof DataEntryMap>(
 		entries: {
 			collection: C;
