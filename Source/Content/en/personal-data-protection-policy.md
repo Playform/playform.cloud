@@ -437,10 +437,10 @@ consent.
         an appropriate level of company’s data protection.
 
 [^1]:
-    https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en;
+    HTTPS://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en;
 
 [^2]:
-    https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en;
+    HTTPS://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en;
 
 3.  As a part of the information obligations, PlayForm must inform the Data
     Subjects that their Personal Data is being transferred to other countries,
@@ -1086,7 +1086,7 @@ Hohenstaufengasse 3\
 Tel. +43 1 531 15 202525\
 Fax +43 1 531 15 202690\
 E-mail: dsb@dsb.gv.at\
-WebSite: https://www.dsb.gv.at
+WebSite: HTTPS://www.dsb.gv.at
 
 Art 29 WP Member: Dr Andrea JELINEK, Director, Österreichische
 Datenschutzbehörde
@@ -1099,7 +1099,7 @@ Rue de la Presse 35 / Drukpersstraat 35 1000 Bruxelles / 1000 Brussel\
 Tel. +32 2 274 48 00\
 Fax +32 2 274 48 35\
 E-mail: commission@privacycommission.be\
-WebSite: https://www.privacycommission.be
+WebSite: HTTPS://www.privacycommission.be
 
 Art 29 WP Vice-President: Willem DEBEUCKELAERE, President of the Belgian Privacy
 commission
@@ -1111,7 +1111,7 @@ Commission for Personal Data Protection\
 Tel. +359 2 915 3580\
 Fax +359 2 915 3525\
 E-mail: kzld@cpdp.bg\
-WebSite: https://www.cpdp.bg
+WebSite: HTTPS://www.cpdp.bg
 
 Art 29 WP Member: Mr. Ventsislav KARADJOV, Chairman of the Commission for
 Personal Data Protection\
@@ -1125,7 +1125,7 @@ Martićeva 14\
 Tel. +385 1 4609 000\
 Fax +385 1 4609 099\
 E-mail: azop@azop.hr or info@azop.hr\
-WebSite: https://www.azop.hr
+WebSite: HTTPS://www.azop.hr
 
 Art 29 WP Member: Mr. Anto RAJKOVAČA, Director of the Croatian Data Protection
 Agency
@@ -1138,7 +1138,7 @@ Commissioner for Personal Data Protection\
 P.O. Box 23378, CY-1682 Nicosia Tel. +357 22 818 456\
 Fax +357 22 304 565\
 E-mail: commissioner@dataprotection.gov.cy\
-WebSite: https://www.dataprotection.gov.cy
+WebSite: HTTPS://www.dataprotection.gov.cy
 
 Art 29 WP Member: Ms. Irene LOIZIDOU NIKOLAIDOU\
 Art 29 WP Alternate Member: Mr. Constantinos GEORGIADES
@@ -1151,7 +1151,7 @@ Urad pro ochranu osobnich udaju Pplk. Sochora 27\
 Tel. +420 234 665 111\
 Fax +420 234 665 444\
 E-mail: posta@uoou.cz\
-WebSite: https://www.uoou.cz
+WebSite: HTTPS://www.uoou.cz
 
 Art 29 WP Member: Ms. Ivana JANŮ, President of the Office for Personal Data
 Protection\
@@ -1166,7 +1166,7 @@ Borgergade 28, 5\
 Tel. +45 33 1932 00\
 Fax +45 33 19 32 18\
 E-mail: dt@datatilsynet.dk\
-WebSite: https://www.datatilsynet.dk
+WebSite: HTTPS://www.datatilsynet.dk
 
 Art 29 WP Member: Ms. Cristina Angela GULISANO, Director, Danish Data Protection
 Agency (Datatilsynet)\
@@ -1181,7 +1181,7 @@ Väike-Ameerika 19\
 Tel. +372 6274 135\
 Fax +372 6274 137\
 E-mail: info@aki.ee\
-WebSite: https://www.aki.ee/en
+WebSite: HTTPS://www.aki.ee/en
 
 Art 29 WP Member: Mr. Viljar PEEP, Director General, Estonian Data Protection
 Inspectorate\
@@ -1194,7 +1194,7 @@ P.O. Box 315\
 FIN-00181 Helsinki Tel. +358 10 3666 700\
 Fax +358 10 3666 735\
 E-mail: tietosuoja@om.fi\
-WebSite: https://www.tietosuoja.fi/en
+WebSite: HTTPS://www.tietosuoja.fi/en
 
 Art 29 WP Member: Mr. Reijo AARNIO, Ombudsman of the Finnish Data Protection
 Authority\
@@ -1206,7 +1206,7 @@ Commission Nationale de l'Informatique et des Libertés - CNIL\
 8 rue Vivienne, CS 30223 F-75002 Paris, Cedex 02\
 Tel. +33 1 53 73 22 22\
 Fax +33 1 53 73 22 00\
-WebSite: https://www.cnil.fr
+WebSite: HTTPS://www.cnil.fr
 
 Art 29 WP Member: Ms. Isabelle FALQUE-PIERROTIN, President of CNIL\
 Art 29 WP Alternate Member: Ms. Florence RAYNAL
@@ -1219,14 +1219,14 @@ Husarenstraße 30\
 Tel. +49 228 997799 0; +49 228 81995 0\
 Fax +49 228 997799 550; +49 228 81995 550\
 E-mail: poststelle@bfdi.bund.de\
-WebSite: https://www.bfdi.bund.de
+WebSite: HTTPS://www.bfdi.bund.de
 
 The competence for complaints is split among different data protection
 supervisory authorities in Germany.
 
 Competent authorities can be identified according to the list provided under
 
-https://www.bfdi.bund.de/EN/Service/Anschriften/Laender/Laender-node.html
+HTTPS://www.bfdi.bund.de/EN/Service/Anschriften/Laender/Laender-node.html
 
 Art 29 WP Member: Ms. Andrea VOSSHOFF, Federal Commissioner for Freedom of
 Information\
@@ -1240,7 +1240,7 @@ Kifisias Av. 1-3, PC 11523 Ampelokipi Athens\
 Tel. +30 210 6475 600\
 Fax +30 210 6475 628\
 E-mail: contact@dpa.gr\
-WebSite: https://www.dpa.gr
+WebSite: HTTPS://www.dpa.gr
 
 Art 29 WP Member: Mr. Konstantinos Menoudakos, President of the Hellenic DPA\
 Art 29 WP Alternate Member: Dr. Vasilios ZORKADIS, Director
@@ -1251,7 +1251,7 @@ National Authority for Data Protection and Freedom of Information\
 Szilágyi Erzsébet fasor 22/C H-1125 Budapest\
 Tel. +36 1 3911 400\
 E-mail: peterfalvi.attila@naih.hu\
-WebSite: https://www.naih.hu
+WebSite: HTTPS://www.naih.hu
 
 Art 29 WP Member: Dr Attila PÉTERFALVI, President of the National Authority for
 Data Protection and Freedom of Information\
@@ -1266,7 +1266,7 @@ Lo-Call: 1890 25 22 31\
 Tel. +353 57 868 4800\
 Fax +353 57 868 4757\
 E-mail: info@dataprotection.ie\
-WebSite: https://www.dataprotection.ie
+WebSite: HTTPS://www.dataprotection.ie
 
 Art 29 WP Member: Ms. Helen DIXON, Data Protection Commissioner\
 Art 29 WP Alternate Members: Mr. John O'DWYER, Deputy Commissioner; Mr. Dale
@@ -1279,7 +1279,7 @@ Piazza di Monte Citorio, 121 00186 Roma\
 Tel. +39 06 69677 1\
 Fax +39 06 69677 785\
 E-mail: garante@garanteprivacy.it\
-WebSite: https://www.garanteprivacy.it
+WebSite: HTTPS://www.garanteprivacy.it
 
 Art 29 WP Member: Mr. Antonello SORO, President of Garante per la protezione dei
 dati personali\
@@ -1294,7 +1294,7 @@ Blaumana str. 11/13-15\
 Tel. +371 6722 3131\
 Fax +371 6722 3556\
 E-mail: info@dvi.gov.lv\
-WebSite: https://www.dvi.gov.lv
+WebSite: HTTPS://www.dvi.gov.lv
 
 Art 29 WP Alternate Member: Ms. Aiga BALODE
 
@@ -1305,7 +1305,7 @@ State Data Protection\
 Tel. + 370 5 279 14 45\
 Fax +370 5 261 94 94\
 E-mail: ada@ada.lt\
-WebSite: https://www.ada.lt
+WebSite: HTTPS://www.ada.lt
 
 Art 29 WP Member: Mr. Raimondas Andrijauskas, Director of the State Data
 Protection Inspectorate\
@@ -1318,7 +1318,7 @@ Commission Nationale pour la Protection des Données\
 1, avenue du Rock’n’roll L-4361 Esch-sur-Alzette Tel. +352 2610 60 1\
 Fax +352 2610 60 29\
 E-mail: info@cnpd.lu\
-WebSite: https://www.cnpd.lu
+WebSite: HTTPS://www.cnpd.lu
 
 Art 29 WP Member: Ms. Tine A. LARSEN, President of the Commission Nationale pour
 la Protection des Données\
@@ -1332,7 +1332,7 @@ Data Protection Commissioner: Mr. Joseph Ebejer\
 High Street, Sliema SLM 1549 Tel. +356 2328 7100\
 Fax +356 2328 7198\
 E-mail: commissioner.dataprotection@gov.mt\
-WebSite: https://idpc.org.mt
+WebSite: HTTPS://idpc.org.mt
 
 Art 29 WP Member: Mr. Saviour CACHIA, Information and Data Protection
 Commissioner\
@@ -1347,7 +1347,7 @@ P.O. Box 93374\
 2509 AJ Den Haag/The Hague Tel. +31 70 888 8500\
 Fax +31 70 888 8501\
 E-mail: info@autoriteitpersoonsgegevens.nl\
-WebSite: https://autoriteitpersoonsgegevens.nl/nl
+WebSite: HTTPS://autoriteitpersoonsgegevens.nl/nl
 
 Art 29 WP Member: Mr. Aleid WOLFSEN, Chairman of Autoriteit Persoonsgegevens
 
@@ -1359,7 +1359,7 @@ ul. Stawki 2\
 Tel. +48 22 53 10 440\
 Fax +48 22 53 10 441\
 E-mail: kancelaria@giodo.gov.pl; desiwm@giodo.gov.pl\
-WebSite: https://www.giodo.gov.pl
+WebSite: HTTPS://www.giodo.gov.pl
 
 Art 29 WP Member: Ms. Edyta BIELAK-JOMAA, Inspector General for the Protection
 of Personal Data
@@ -1371,7 +1371,7 @@ R. de São. Bento, 148-3° 1200-821 Lisboa\
 Tel. +351 21 392 84 00\
 Fax +351 21 397 68 32\
 E-mail: geral@cnpd.pt\
-WebSite: https://www.cnpd.pt
+WebSite: HTTPS://www.cnpd.pt
 
 Art 29 WP Member: Ms. Filipa CALVÃO, President, Comissão Nacional de Protecção
 de Dados\
@@ -1386,7 +1386,7 @@ Sector 1, BUCUREŞTI\
 Tel. +40 21 252 5599\
 Fax +40 21 252 5757\
 E-mail: anspdcp@dataprotection.ro\
-WebSite: https://www.dataprotection.ro
+WebSite: HTTPS://www.dataprotection.ro
 
 Art 29 WP Member: Ms. Ancuţa Gianina OPRE, President of the National Supervisory
 Authority for Personal Data Processing\
@@ -1401,7 +1401,7 @@ Hraničná 12\
 Tel.: + 421 2 32 31 32 14\
 Fax: + 421 2 32 31 32 34\
 E-mail: statny.dozor@pdp.gov.sk\
-WebSite: https://dataprotection.gov.sk
+WebSite: HTTPS://dataprotection.gov.sk
 
 Art 29 WP Member: Ms. Soňa PŐTHEOVÁ, President of the Office for Personal Data
 Protection of the Slovak Republic\
@@ -1415,7 +1415,7 @@ Ms. Mojca Prelesnik Zaloška 59\
 Tel. +386 1 230 9730\
 Fax +386 1 230 9778\
 E-mail: gp.ip@ip-rs.si\
-WebSite: https://www.ip-rs.si
+WebSite: HTTPS://www.ip-rs.si
 
 Art 29 WP Member: Ms. Mojca PRELESNIK, Information Commissioner of the Republic
 of Slovenia
@@ -1428,7 +1428,7 @@ C/Jorge Juan, 6\
 Tel. +34 91399 6200\
 Fax +34 91455 5699\
 E-mail: internacional@agpd.es\
-WebSite: https://www.agpd.es
+WebSite: HTTPS://www.agpd.es
 
 Art 29 WP Member: Ms. María del Mar España Martí, Director of the Spanish Data
 Protection Agency\
@@ -1443,7 +1443,7 @@ Box 8114\
 Tel. +46 8 657 6100\
 Fax +46 8 652 8652\
 E-mail: datainspektionen@datainspektionen.se\
-WebSite: https://www.datainspektionen.se
+WebSite: HTTPS://www.datainspektionen.se
 
 Art 29 WP Member: Ms. Kristina SVAHN STARRSJÖ, Director General of the Data
 Inspection Board\
@@ -1454,7 +1454,7 @@ Art 29 WP Alternate Member: Mr. Hans-Olof LINDBLOM, Chief Legal Adviser
 The Information Commissioner’s Office\
 Water Lane, Wycliffe House Wilmslow - Cheshire SK9 5AF Tel. +44 1625 545 745\
 E-mail: international.team@ico.org.uk\
-WebSite: https://ico.org.uk
+WebSite: HTTPS://ico.org.uk
 
 Art 29 WP Member: Ms. Elizabeth DENHAM, Information Commissioner\
 Art 29 WP Alternate Member: Mr. Steve WOOD, Deputy Commissioner
@@ -1468,7 +1468,7 @@ Rauðarárstíg 10\
 Reykjavík\
 Tel. +354 510 9600; Fax +354 510 9606\
 E-mail: postur@personuvernd.is\
-WebSite: https://www.personuvernd.is
+WebSite: HTTPS://www.personuvernd.is
 
 **Liechtenstein**
 
@@ -1477,7 +1477,7 @@ Kirchstrasse 8, P.O. Box 684\
 9490 Vaduz\
 Principality of Liechtenstein Tel. +423 236 6090\
 E-mail: info.dss@llv.li\
-WebSite: https://www.datenschutzstelle.li
+WebSite: HTTPS://www.datenschutzstelle.li
 
 **Norway**
 
@@ -1487,7 +1487,7 @@ The Data Inspectorate\
 P.O. Box 8177 Dep 0034 Oslo\
 Tel. +47 22 39 69 00; Fax +47 22 42 23 50\
 E-mail: postkasse@datatilsynet.no\
-WebSite: https://www.datatilsynet.no
+WebSite: HTTPS://www.datatilsynet.no
 
 **Switzerland**
 
@@ -1498,4 +1498,4 @@ Feldeggweg 1\
 3003 Bern\
 Tel. +41 58 462 43 95; Fax +41 58 462 99 96\
 E-mail: contact20@edoeb.admin.ch\
-WebSite: https://www.edoeb.admin.ch
+WebSite: HTTPS://www.edoeb.admin.ch
