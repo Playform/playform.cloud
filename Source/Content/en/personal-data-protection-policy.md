@@ -2,19 +2,19 @@
 Title: Personal Data Protection Policy
 ---
 
--   [PERSONAL DATA PROTECTION POLICY]
-    -   [Scope and Definitions]
-    -   [Data Processing Principles]
-    -   [Legal Grounds and Purposes ]
-    -   [Access to Personal Data]
-    -   [Third Parties]
-    -   [International Transfers]
-    -   [Rights of Data Subjects]
-    -   [New Data Processing Activities]
-    -   [Data Retention]
-    -   [Security]
-    -   [Data Breach Response Procedure]
-    -   [ANNEX 1 TO THE PERSONAL DATA PROTECTION POLICY]
+- [PERSONAL DATA PROTECTION POLICY]
+    - [Scope and Definitions]
+    - [Data Processing Principles]
+    - [Legal Grounds and Purposes ]
+    - [Access to Personal Data]
+    - [Third Parties]
+    - [International Transfers]
+    - [Rights of Data Subjects]
+    - [New Data Processing Activities]
+    - [Data Retention]
+    - [Security]
+    - [Data Breach Response Procedure]
+    - [ANNEX 1 TO THE PERSONAL DATA PROTECTION POLICY]
 
 [personal data protection policy]: #personal-data-protection-policy
 [scope and definitions]: #scope-and-definitions
@@ -190,19 +190,19 @@ respecting privacy of the concerned individuals.
         document all relevant procedures, efforts, internal and external
         consultations on personal data protection including:
 
-        -   the fact of appointing a person responsible for PlayForm’s data
-            protection compliance;
+        - the fact of appointing a person responsible for PlayForm’s data
+          protection compliance;
 
-        -   where necessary, a record of a Data Processing Impact Assessment;
+        - where necessary, a record of a Data Processing Impact Assessment;
 
-        -   developed and implemented notices, policies, and procedures, such as
-            Privacy Notice, this policy or Data Breach response procedure;
+        - developed and implemented notices, policies, and procedures, such as
+          Privacy Notice, this policy or Data Breach response procedure;
 
-        -   the fact of staff training on compliance with Data Protection laws;
-            and
+        - the fact of staff training on compliance with Data Protection laws;
+          and
 
-        -   assessment, implementation, and testing organizational and technical
-            data protection measures.
+        - assessment, implementation, and testing organizational and technical
+          data protection measures.
 
     2.  The Privacy Manager must maintain PlayForm’s Records of processing
         activities, which is an accountability document that describes personal
@@ -211,37 +211,36 @@ respecting privacy of the concerned individuals.
         of processing activities must maintain, at least, the following
         information about each processing activity:
 
-        -   contact details of PlayForm, the EU Representative, and, where
-            applicable, of the Data Protection Officer;
+        - contact details of PlayForm, the EU Representative, and, where
+          applicable, of the Data Protection Officer;
 
-        -   name of the activity, its purposes and legal basis along with, where
-            applicable, the legitimate interests of PlayForm;
+        - name of the activity, its purposes and legal basis along with, where
+          applicable, the legitimate interests of PlayForm;
 
-        -   data subjects and personal data categories concerned;
+        - data subjects and personal data categories concerned;
 
-        -   data retention periods;
+        - data retention periods;
 
-        -   general description of applicable security measures;
+        - general description of applicable security measures;
 
-        -   recipients, including joint controllers, processors, and contractors
-            involved, as well as the fact of the international data transfer
-            with the safeguards applied to the transfer;
+        - recipients, including joint controllers, processors, and contractors
+          involved, as well as the fact of the international data transfer with
+          the safeguards applied to the transfer;
 
-        -   where applicable, a reference to the Data Processing Impact
-            Assessment;
+        - where applicable, a reference to the Data Processing Impact
+          Assessment;
 
-        -   where applicable, a reference to the record of the data breach
-            occurred involving the personal data;
+        - where applicable, a reference to the record of the data breach
+          occurred involving the personal data;
 
-        -   if PlayForm acts as a data processor, the information to be provided
-            includes the names and contact details of controllers, name and
-            contact details of controller's representative (if applicable),
-            categories of processing (activities), names of third countries or
-            international organizations that personal data are transferred to
-            (if applicable), safeguards for exceptional transfers of personal
-            data to third countries or international organizations (if
-            applicable), and general description of technical and organizational
-            security measures.
+        - if PlayForm acts as a data processor, the information to be provided
+          includes the names and contact details of controllers, name and
+          contact details of controller's representative (if applicable),
+          categories of processing (activities), names of third countries or
+          international organizations that personal data are transferred to (if
+          applicable), safeguards for exceptional transfers of personal data to
+          third countries or international organizations (if applicable), and
+          general description of technical and organizational security measures.
 
 ## Legal Grounds and Purposes
 
@@ -269,17 +268,17 @@ respecting privacy of the concerned individuals.
         meet the requirements of Data Protection Laws and this Policy. In
         particular, the Privacy Manager must make sure that:
 
-        -   the Data Subject must be free to give or refuse to give consent.
+        - the Data Subject must be free to give or refuse to give consent.
 
-        -   the consent is in the form of an active indication from the Data
-            Subject, i.e., the consent checkbox must not be pre-ticked for the
-            user.
+        - the consent is in the form of an active indication from the Data
+          Subject, i.e., the consent checkbox must not be pre-ticked for the
+          user.
 
-        -   the request for the consent clearly articulates the purposes of the
-            processing, and other information specified in Subsection 6.2 is
-            available to the Data Subject.
+        - the request for the consent clearly articulates the purposes of the
+          processing, and other information specified in Subsection 6.2 is
+          available to the Data Subject.
 
-        -   the Data Subject must be free to give one’s consent or to revoke it.
+        - the Data Subject must be free to give one’s consent or to revoke it.
 
     5.  **Legitimate interests**. We have the right to use personal data in our
         ‘legitimate interests’. The interests can include the purposes that are
@@ -288,22 +287,21 @@ respecting privacy of the concerned individuals.
         interests as a legal ground for the processing, the Privacy Manager must
         make sure that:
 
-        -   the legitimate interest in the processing is clearly defined and
-            recorded in the Records of processing activities;
+        - the legitimate interest in the processing is clearly defined and
+          recorded in the Records of processing activities;
 
-        -   any envisaged risks to Data Subject rights and interests are
-            spotted. The examples of the risks can be found in Subsection 7.2.;
+        - any envisaged risks to Data Subject rights and interests are spotted.
+          The examples of the risks can be found in Subsection 7.2.;
 
-        -   the Data Subjects have reasonable expectations about the processing,
-            and additional protective measures to address the risks are taken;
+        - the Data Subjects have reasonable expectations about the processing,
+          and additional protective measures to address the risks are taken;
 
-        -   subject to the conditions of Subsection 6.7 (Right to object against
-            the processing), the Data Subject is provided with the opportunity
-            to opt-out from the processing for the described legitimate
-            interests.\
-            If at least one of the above conditions is not met by PlayForm, the
-            Privacy Manager must choose and propose a different legal ground for
-            the processing, such as consent.
+        - subject to the conditions of Subsection 6.7 (Right to object against
+          the processing), the Data Subject is provided with the opportunity to
+          opt-out from the processing for the described legitimate interests.\
+          If at least one of the above conditions is not met by PlayForm, the
+          Privacy Manager must choose and propose a different legal ground for
+          the processing, such as consent.
 
     6.  **Legal Compliance and Public Interest**. Besides the grounds specified
         afore, we might be requested by the laws of the European Union or laws
@@ -312,14 +310,14 @@ respecting privacy of the concerned individuals.
         information of Users to comply with financial or labor laws.\
         Whenever we have such an obligation, we must make sure that:
 
-        -   we process personal data strictly in accordance with relevant legal
-            requirements;
+        - we process personal data strictly in accordance with relevant legal
+          requirements;
 
-        -   we do not use or store the collected Personal Data for other
-            purposes than legal compliance; and
+        - we do not use or store the collected Personal Data for other purposes
+          than legal compliance; and
 
-        -   the Data Subjects are properly and timely informed about our
-            obligations, scope, and conditions of personal data processing.
+        - the Data Subjects are properly and timely informed about our
+          obligations, scope, and conditions of personal data processing.
 
 Important: Where PlayForm has the law requirements of another country to process
 personal data, the Privacy Manager must propose using another legal ground for
@@ -416,25 +414,25 @@ consent.
     transfer. The following regimes apply to the transfers of Personal Data
     outside of the EU:
 
-    -   where the European Commission decides that the country has an adequate
-        level of personal data protection, the transfer does not require taking
-        additional safeguards. The full list of adequate jurisdictions can be
-        found on the relevant page of the European Commission’s website[^1].
+    - where the European Commission decides that the country has an adequate
+      level of personal data protection, the transfer does not require taking
+      additional safeguards. The full list of adequate jurisdictions can be
+      found on the relevant page of the European Commission’s website[^1].
 
-    -   to transfer Personal Data to our contractors or partners (Data
-        Processors or Controllers) in other third countries, we must conclude
-        Standard Contractual Clauses with that party. The draft version along
-        with the guidance can be found on the relevant page of the European
-        Commission’s website[^2];
+    - to transfer Personal Data to our contractors or partners (Data Processors
+      or Controllers) in other third countries, we must conclude Standard
+      Contractual Clauses with that party. The draft version along with the
+      guidance can be found on the relevant page of the European Commission’s
+      website[^2];
 
-    -   if we have a corporate affiliate or an entity in other countries, we may
-        choose to adopt Binding Corporate Rules in accordance with Article 47 of
-        the GDPR or an approved code of conduct pursuant to Article 40 of the
-        GDPR;
+    - if we have a corporate affiliate or an entity in other countries, we may
+      choose to adopt Binding Corporate Rules in accordance with Article 47 of
+      the GDPR or an approved code of conduct pursuant to Article 40 of the
+      GDPR;
 
-    -   we also can transfer Personal Data to entities that have an approved
-        certification in accordance with Article 42 of the GDPR, which certifies
-        an appropriate level of company’s data protection.
+    - we also can transfer Personal Data to entities that have an approved
+      certification in accordance with Article 42 of the GDPR, which certifies
+      an appropriate level of company’s data protection.
 
 [^1]:
     HTTPS://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en;
@@ -483,44 +481,44 @@ consent.
     5.  The responsible employee must analyze the received DSR for the following
         criteria:
 
-        -   **Data Subject identification**. Before considering the DSR content,
-            the responsible employee must make sure the Data Subject is the same
-            person he/she claims to be. For this purpose, the connection between
-            the personal data records and the data subject must be established.
+        - **Data Subject identification**. Before considering the DSR content,
+          the responsible employee must make sure the Data Subject is the same
+          person he/she claims to be. For this purpose, the connection between
+          the personal data records and the data subject must be established.
 
-        -   **Personal data**. The responsible employee must check whether
-            PlayForm has access to the personal data requested. If PlayForm does
-            not have the personal data under the control, the responsible
-            employee must inform the Data Subject, and, if possible, instruct on
-            the further steps on how to access the data in question;
+        - **Personal data**. The responsible employee must check whether
+          PlayForm has access to the personal data requested. If PlayForm does
+          not have the personal data under the control, the responsible employee
+          must inform the Data Subject, and, if possible, instruct on the
+          further steps on how to access the data in question;
 
-        -   **Content of the request**. Depending on the content of the DSR, the
-            responsible employee must define the type of the request and check
-            whether it meets the conditions prescribed by this Policy and Data
-            Protection Laws. The types of requests and the respective conditions
-            for each of them can be consulted in Subsections 6.3-6.9. If the
-            request does not meet the described criteria, the responsible
-            employee must refuse to comply with the DSR and inform the Data
-            Subject about the reasons for refusing;
+        - **Content of the request**. Depending on the content of the DSR, the
+          responsible employee must define the type of the request and check
+          whether it meets the conditions prescribed by this Policy and Data
+          Protection Laws. The types of requests and the respective conditions
+          for each of them can be consulted in Subsections 6.3-6.9. If the
+          request does not meet the described criteria, the responsible employee
+          must refuse to comply with the DSR and inform the Data Subject about
+          the reasons for refusing;
 
-        -   **Free of charge**. Generally, all requests of Data Subjects and
-            exercises of their rights are free of charge. If the responsible
-            employee finds that the Data Subject exercises the rights in an
-            excessive or unfound way (e.g., intended to harm or interrupt
-            PlayForm’s business activities), the employee must seek the advice
-            from the Privacy Manager, and, upon receiving of the latter, may
-            either charge the Data Subject a reasonable fee or refuse to comply
-            with the request;
+        - **Free of charge**. Generally, all requests of Data Subjects and
+          exercises of their rights are free of charge. If the responsible
+          employee finds that the Data Subject exercises the rights in an
+          excessive or unfound way (e.g., intended to harm or interrupt
+          PlayForm’s business activities), the employee must seek the advice
+          from the Privacy Manager, and, upon receiving of the latter, may
+          either charge the Data Subject a reasonable fee or refuse to comply
+          with the request;
 
-        -   **Documenting**. Whenever PlayForm receives the DSR, the Privacy
-            Manager must make sure that the data and time, Data Subject, type of
-            the request and the decision made regarding it are well documented.
-            In the case of refusing to comply with the request, the reasons for
-            refusing must be documented as well;
+        - **Documenting**. Whenever PlayForm receives the DSR, the Privacy
+          Manager must make sure that the data and time, Data Subject, type of
+          the request and the decision made regarding it are well documented. In
+          the case of refusing to comply with the request, the reasons for
+          refusing must be documented as well;
 
-        -   **Recipients**. When addressing the DSR, the Privacy Manager must
-            make sure that all concerned recipients were informed the necessary
-            actions were taken.
+        - **Recipients**. When addressing the DSR, the Privacy Manager must make
+          sure that all concerned recipients were informed the necessary actions
+          were taken.
 
 2.  **<span class="underline">The right to be informed.</span>**
 
@@ -549,23 +547,22 @@ consent.
         new processing activity introduced at PlayForm within the following
         term:
 
-        -   if personal data is collected from the data subject directly, the
-            data subject must be informed at the time we collect Personal Data
-            from the Data Subjects by showing the Data Subject our privacy
-            statement;
+        - if personal data is collected from the data subject directly, the data
+          subject must be informed at the time we collect Personal Data from the
+          Data Subjects by showing the Data Subject our privacy statement;
 
-        -   if the personal data is collected from other sources: (a) within one
-            month from collecting it; (b) if the personal data are to be used
-            for communication with the data subject, at the latest at the time
-            of the first communication to that data subject; or (c) if a
-            disclosure to another recipient is envisaged, at the latest when the
-            personal data are first disclosed.
+        - if the personal data is collected from other sources: (a) within one
+          month from collecting it; (b) if the personal data are to be used for
+          communication with the data subject, at the latest at the time of the
+          first communication to that data subject; or (c) if a disclosure to
+          another recipient is envisaged, at the latest when the personal data
+          are first disclosed.
 
-        -   upon the request of the Data Subject; and
+        - upon the request of the Data Subject; and
 
-        -   within one (1) month after any change of our personal data
-            practices, change of the controller of Personal Data or after
-            significant changes in our privacy statements.
+        - within one (1) month after any change of our personal data practices,
+          change of the controller of Personal Data or after significant changes
+          in our privacy statements.
 
 3.  **<span class="underline">The right to access the information.</span>**
 
@@ -577,17 +574,17 @@ consent.
 
     2.  A Data Subject has the right to:
 
-        -   learn if we process the Data Subject’s Personal Data;
+        - learn if we process the Data Subject’s Personal Data;
 
-        -   obtain disclosure regarding aspects of the processing, including
-            detailed and case-specific information on purposes, categories of
-            Personal Data, recipients/categories of recipients, retention
-            periods, information about one’s rights, details of the relevant
-            safeguards where personal data is transferred outside the EEA, and
-            any third-party source of the personal data; and
+        - obtain disclosure regarding aspects of the processing, including
+          detailed and case-specific information on purposes, categories of
+          Personal Data, recipients/categories of recipients, retention periods,
+          information about one’s rights, details of the relevant safeguards
+          where personal data is transferred outside the EEA, and any
+          third-party source of the personal data; and
 
-        -   obtain a copy of the Personal Data undergoing processing upon the
-            request.
+        - obtain a copy of the Personal Data undergoing processing upon the
+          request.
 
 4.  **<span class="underline">The right to verify the Data Subject’s information
     and seek its rectification.</span>** The information we collect can
@@ -604,12 +601,12 @@ consent.
 
     2.  This right applies when the Data Subject:
 
-        -   contests the accuracy of the Personal Data;
+        - contests the accuracy of the Personal Data;
 
-        -   believes that we process the Personal Data unlawfully; and
+        - believes that we process the Personal Data unlawfully; and
 
-        -   objects against the processing and wants us not to process Personal
-            Data while we are considering the request.
+        - objects against the processing and wants us not to process Personal
+          Data while we are considering the request.
 
     3.  In the case of receiving the restriction request, we must not process
         Personal Data in question for any other purpose than storing it or for
@@ -647,27 +644,27 @@ consent.
     1.  The Data Subjects have the right to request us to erase their Personal
         Data if one of the following conditions are met:
 
-        -   Personal Data is no longer necessary for the purposes of collection.
-            For example, a user has provided personal data for a one-time
-            activity, such as data validation or participation in a contest, and
-            the purpose is already fulfilled;
+        - Personal Data is no longer necessary for the purposes of collection.
+          For example, a user has provided personal data for a one-time
+          activity, such as data validation or participation in a contest, and
+          the purpose is already fulfilled;
 
-        -   the Data Subject revokes one’s consent or objects to the processing
-            (where applicable) and there is no other legal ground for the
-            processing; or
+        - the Data Subject revokes one’s consent or objects to the processing
+          (where applicable) and there is no other legal ground for the
+          processing; or
 
-        -   we process the Personal Data unlawfully or its erasure is required
-            by the applicable legislation of the European Union or one of the
-            Member countries of the European Union.
+        - we process the Personal Data unlawfully or its erasure is required by
+          the applicable legislation of the European Union or one of the Member
+          countries of the European Union.
 
     2.  Conditions, under which we have the right to refuse the erasure:
 
-        -   Personal Data is processed for scientific/historical research or
-            statistical purposes and is appropriately protected, i.e.,
-            pseudonymized or anonymized;
+        - Personal Data is processed for scientific/historical research or
+          statistical purposes and is appropriately protected, i.e.,
+          pseudonymized or anonymized;
 
-        -   Personal Data is still necessary for legal compliance (e.g.,
-            financial or labor laws compliance).
+        - Personal Data is still necessary for legal compliance (e.g., financial
+          or labor laws compliance).
 
     3.  Only those personal data records must be deleted that were specified in
         the request. If the Data Subject requests the deletion of all personal
@@ -686,10 +683,10 @@ consent.
         part in a machine-readable format to a third party. This right applies
         in two cases:
 
-        -   personal data was collected for the purpose of provision of our
-            services (performance of the contract); or
+        - personal data was collected for the purpose of provision of our
+          services (performance of the contract); or
 
-        -   collected based on consent.
+        - collected based on consent.
 
     2.  To determine whether one of the p.6.9.1 conditions are met, the employee
         must seek advice from the Privacy Manager and check the applicable legal
@@ -713,24 +710,23 @@ consent.
 
     2.  Upon receiving information about a new activity, Privacy Manager must:
 
-        -   determine whether the data processing impact assessment (DPIA)
-            and/or the consultation with the Supervisory Authority is necessary.
-            If the answer is positive, the Privacy Manager must make sure the
-            DPIA is conducted and/or the Supervisory Authority is consulted in
-            accordance with the requirements of this Section and Data Protection
-            Laws;
+        - determine whether the data processing impact assessment (DPIA) and/or
+          the consultation with the Supervisory Authority is necessary. If the
+          answer is positive, the Privacy Manager must make sure the DPIA is
+          conducted and/or the Supervisory Authority is consulted in accordance
+          with the requirements of this Section and Data Protection Laws;
 
-        -   determine the legal basis for the processing and, where necessary,
-            take further action for its fixation;
+        - determine the legal basis for the processing and, where necessary,
+          take further action for its fixation;
 
-        -   make sure the processing activity is done in accordance with this
-            Policy, other PlayForm’s policies, as well as the Data Protection
-            Laws;
+        - make sure the processing activity is done in accordance with this
+          Policy, other PlayForm’s policies, as well as the Data Protection
+          Laws;
 
-        -   add the processing activity to the Records of processing activities;
+        - add the processing activity to the Records of processing activities;
 
-        -   amend the privacy information statements and, where necessary,
-            inform the concerned Data Subject accordingly.
+        - amend the privacy information statements and, where necessary, inform
+          the concerned Data Subject accordingly.
 
 2.  **<span class="underline">Data Processing Impact Assessment.</span>**
 
@@ -745,78 +741,77 @@ consent.
         and/or external advisors, must conduct a DPIA if at least one of the
         following conditions are met:
 
-        -   the processing involves the use of new technologies, such as the
-            Artificial Intelligence, use of connected and autonomous devices,
-            etc. that creates certain legal, economic or similar effects to the
-            Data Subject;
+        - the processing involves the use of new technologies, such as the
+          Artificial Intelligence, use of connected and autonomous devices, etc.
+          that creates certain legal, economic or similar effects to the Data
+          Subject;
 
-        -   we systematically assess and evaluate personal aspects of the Data
-            Subjects based on automated profiling, assigning the personal
-            score/rate, and create legal or similar effects for the Data Subject
-            by this activity;
+        - we systematically assess and evaluate personal aspects of the Data
+          Subjects based on automated profiling, assigning the personal
+          score/rate, and create legal or similar effects for the Data Subject
+          by this activity;
 
-        -   we process on a large-scale sensitive data, which includes Personal
-            Data relating to criminal convictions and offences, the data about
-            vulnerable data subjects, the personal data revealing racial or
-            ethnic origin, political opinions, religious or philosophical
-            beliefs, or trade union membership, and the processing of genetic
-            data, biometric data for the purpose of uniquely identifying a
-            natural person, data concerning health or data concerning a natural
-            person’s sex life or sexual orientation;
+        - we process on a large-scale sensitive data, which includes Personal
+          Data relating to criminal convictions and offences, the data about
+          vulnerable data subjects, the personal data revealing racial or ethnic
+          origin, political opinions, religious or philosophical beliefs, or
+          trade union membership, and the processing of genetic data, biometric
+          data for the purpose of uniquely identifying a natural person, data
+          concerning health or data concerning a natural person’s sex life or
+          sexual orientation;
 
-        -   we collect or process Personal Data from a publicly accessible area
-            or public sources on a large scale, or combine or match two
-            different data sets; and
+        - we collect or process Personal Data from a publicly accessible area or
+          public sources on a large scale, or combine or match two different
+          data sets; and
 
-        -   the Supervisory Authority in its public list requires conducting a
-            DPIA for a certain type of activity we are involved in. The list of
-            processing activities requiring conducting DPIA can be found on the
-            website of each Supervisory Authority.
+        - the Supervisory Authority in its public list requires conducting a
+          DPIA for a certain type of activity we are involved in. The list of
+          processing activities requiring conducting DPIA can be found on the
+          website of each Supervisory Authority.
 
     3.  The assessment shall contain at least the following details:
 
-        -   a systematic description of the processing operations and the
-            purposes of the processing, including, where applicable, the
-            legitimate interest pursued by us. The description must include the
-            envisaged data categories and data subjects concerned, the scale of
-            processing activities, such as its frequency, volume, envisaged
-            number of records, etc.; recipients of the data, retention periods
-            and, where applicable, international transfers;
+        - a systematic description of the processing operations and the purposes
+          of the processing, including, where applicable, the legitimate
+          interest pursued by us. The description must include the envisaged
+          data categories and data subjects concerned, the scale of processing
+          activities, such as its frequency, volume, envisaged number of
+          records, etc.; recipients of the data, retention periods and, where
+          applicable, international transfers;
 
-        -   an assessment of the necessity and proportionality of the processing
-            operations in relation to the purposes. The DPIA must explain
-            whether the activity is necessary for the purpose and whether the
-            purpose can be achieved by less intrusive methods;
+        - an assessment of the necessity and proportionality of the processing
+          operations in relation to the purposes. The DPIA must explain whether
+          the activity is necessary for the purpose and whether the purpose can
+          be achieved by less intrusive methods;
 
-        -   an assessment of the risks to the rights and freedoms of data
-            subjects, including the rights of Data Subjects regarding their
-            Personal Data.
+        - an assessment of the risks to the rights and freedoms of data
+          subjects, including the rights of Data Subjects regarding their
+          Personal Data.
 
-        -   The examples of risks are the processing which could lead to
-            physical, material or non-material damage, in particular: where the
-            processing may give rise to discrimination, identity theft or fraud,
-            financial loss, damage to the reputation, loss of confidentiality of
-            personal data protected by professional secrecy, unauthorized
-            reversal of pseudonymization, or any other significant economic or
-            social disadvantage; where data subjects might be deprived of their
-            rights and freedoms or prevented from exercising control over their
-            personal data; where personal data are processed which reveal racial
-            or ethnic origin, political opinions, religion or philosophical
-            beliefs, trade union membership, and the processing of genetic data,
-            data concerning health or data concerning sex life or criminal
-            convictions and offences or related security measures; where
-            personal aspects are evaluated, in particular analyzing or
-            predicting aspects concerning performance at work, economic
-            situation, health, personal preferences or interests, reliability or
-            behavior, location or movements, in order to create or use personal
-            profiles; where personal data of vulnerable natural persons, in
-            particular of children, are processed; or where processing involves
-            a large amount of personal data and affects a large number of data
-            subjects; and
+        - The examples of risks are the processing which could lead to physical,
+          material or non-material damage, in particular: where the processing
+          may give rise to discrimination, identity theft or fraud, financial
+          loss, damage to the reputation, loss of confidentiality of personal
+          data protected by professional secrecy, unauthorized reversal of
+          pseudonymization, or any other significant economic or social
+          disadvantage; where data subjects might be deprived of their rights
+          and freedoms or prevented from exercising control over their personal
+          data; where personal data are processed which reveal racial or ethnic
+          origin, political opinions, religion or philosophical beliefs, trade
+          union membership, and the processing of genetic data, data concerning
+          health or data concerning sex life or criminal convictions and
+          offences or related security measures; where personal aspects are
+          evaluated, in particular analyzing or predicting aspects concerning
+          performance at work, economic situation, health, personal preferences
+          or interests, reliability or behavior, location or movements, in order
+          to create or use personal profiles; where personal data of vulnerable
+          natural persons, in particular of children, are processed; or where
+          processing involves a large amount of personal data and affects a
+          large number of data subjects; and
 
-        -   the measures to address the risks, including safeguards, security
-            measures, and mechanisms to ensure the protection of personal data
-            and to demonstrate compliance with this Regulation.
+        - the measures to address the risks, including safeguards, security
+          measures, and mechanisms to ensure the protection of personal data and
+          to demonstrate compliance with this Regulation.
 
     4.  Where the DPIA did not provide how to effectively address the risks, the
         Privacy Manager must initiate the consultation with the competent
@@ -911,25 +906,25 @@ consent.
         responsibilities of PlayForm mentioned in this Policy. The duties of the
         Response Team are:
 
-        -   to communicate the Data Breach to the competent Supervisory
-            Authority(-ies);
+        - to communicate the Data Breach to the competent Supervisory
+          Authority(-ies);
 
-        -   in case of high risk to the rights and freedoms of Data Subjects, to
-            communicate the Data Breach to the Data Subject;
+        - in case of high risk to the rights and freedoms of Data Subjects, to
+          communicate the Data Breach to the Data Subject;
 
-        -   if PlayForm obtain data from any third party as a processor, and a
-            Data Breach involves obtained data, to inform the third parties
-            about the Data Breach;
+        - if PlayForm obtain data from any third party as a processor, and a
+          Data Breach involves obtained data, to inform the third parties about
+          the Data Breach;
 
-        -   to communicate PlayForm’s contractors or any other third parties
-            that process the Personal Data involved in the Data Breach; and
+        - to communicate PlayForm’s contractors or any other third parties that
+          process the Personal Data involved in the Data Breach; and
 
-        -   to take all appropriate technical and organizational measures to
-            cease the Data Breach and mitigate its consequences;
+        - to take all appropriate technical and organizational measures to cease
+          the Data Breach and mitigate its consequences;
 
-        -   to record the fact of the Data Breach in the Records of processing
-            activities and file an internal data breach report that describes
-            the event.
+        - to record the fact of the Data Breach in the Records of processing
+          activities and file an internal data breach report that describes the
+          event.
 
     4.  The Response Team shall perform its duties until all the necessary
         measures required by this Policy are taken.
@@ -955,22 +950,21 @@ consent.
     4.  The notification to the Competent Supervisory Authority shall contain,
         at least, following information:
 
-        -   **the nature of the Data Breach** including where possible, the
-            categories and an approximate number of Data Subjects and Personal
-            Data records concerned;
+        - **the nature of the Data Breach** including where possible, the
+          categories and an approximate number of Data Subjects and Personal
+          Data records concerned;
 
-        -   the name and contact details of the **Response Team, Privacy Manager
-            or, if not applicable, of the CEO**;
+        - the name and contact details of the **Response Team, Privacy Manager
+          or, if not applicable, of the CEO**;
 
-        -   the likely consequences of the Data Breach. Explain PlayForm’s point
-            of view on the purposes and possible further risks of the Data
-            Breach. E.g., the Personal Data may be stolen for the further
-            **sale, fraud activities or blackmailing the concerned Data
-            Subjects**; and
+        - the likely consequences of the Data Breach. Explain PlayForm’s point
+          of view on the purposes and possible further risks of the Data Breach.
+          E.g., the Personal Data may be stolen for the further **sale, fraud
+          activities or blackmailing the concerned Data Subjects**; and
 
-        -   **the measures taken or proposed** to be taken by PlayForm to
-            address the Data Breach, including, where appropriate, measures to
-            mitigate its possible adverse effects.
+        - **the measures taken or proposed** to be taken by PlayForm to address
+          the Data Breach, including, where appropriate, measures to mitigate
+          its possible adverse effects.
 
     5.  To file a notification, the Response Team should use PlayForm’s Data
         Breach Notification Form to the Supervisory Authority.
@@ -986,22 +980,21 @@ consent.
 
     2.  The notification shall contain the following information:
 
-        -   description of the Data Breach - what happened and what led to the
-            Data Breach, such as **a security breach, employee’s negligence,
-            error in the system work**. If the Response Team decided not to
-            disclose the causes of the Data Breach, then this clause must not be
-            mentioned;
+        - description of the Data Breach - what happened and what led to the
+          Data Breach, such as **a security breach, employee’s negligence, error
+          in the system work**. If the Response Team decided not to disclose the
+          causes of the Data Breach, then this clause must not be mentioned;
 
-        -   the measures taken by PlayForm regarding the Data Breach, including
-            **security measures, internal investigations, and supervisory
-            authority notice**;
+        - the measures taken by PlayForm regarding the Data Breach, including
+          **security measures, internal investigations, and supervisory
+          authority notice**;
 
-        -   recommendations for the concerned Data Subjects how to mitigate
-            risks and possible consequences, such as **guidelines on how to
-            restore access to an account, preventing measures (change of a
-            password)**; and
+        - recommendations for the concerned Data Subjects how to mitigate risks
+          and possible consequences, such as **guidelines on how to restore
+          access to an account, preventing measures (change of a password)**;
+          and
 
-        -   the contact information of the Response Team or one of its members.
+        - the contact information of the Response Team or one of its members.
 
     3.  The notification to the Data Subjects should be carried out by the
         **email letter** or, where it is impossible to use the email, by other
@@ -1010,20 +1003,20 @@ consent.
     4.  **Exemptions**. We do not have to send the notification to the Data
         Subjects if any of the following conditions are met:
 
-        -   PlayForm has implemented appropriate technical and organizational
-            protection measures, and those measures were applied to the Personal
-            Data affected by the Data Breach, in particular, those that leave
-            the Personal Data inaccessible to any person who is not authorized
-            to access it, such as encryption;
+        - PlayForm has implemented appropriate technical and organizational
+          protection measures, and those measures were applied to the Personal
+          Data affected by the Data Breach, in particular, those that leave the
+          Personal Data inaccessible to any person who is not authorized to
+          access it, such as encryption;
 
-        -   PlayForm has taken subsequent measures which ensure that the high
-            risk to the rights and freedoms of Data Subjects referred to in this
-            section is no longer likely to materialize; or
+        - PlayForm has taken subsequent measures which ensure that the high risk
+          to the rights and freedoms of Data Subjects referred to in this
+          section is no longer likely to materialize; or
 
-        -   it would involve a disproportionate effort to communicate with every
-            concerned Data Subject. In such a case, there shall instead be a
-            public communication or similar measure whereby the Data Subjects
-            are informed in an equally effective manner.
+        - it would involve a disproportionate effort to communicate with every
+          concerned Data Subject. In such a case, there shall instead be a
+          public communication or similar measure whereby the Data Subjects are
+          informed in an equally effective manner.
 
 In the case we apply one of the exemptions, we **must document** the
 circumstances, reason for not informing, and actions taken to meet one of the
@@ -1042,15 +1035,15 @@ exemptions.
         Data Processor or other Third Parties that have access to the Personal
         Data, CEO of PlayForm shall, in accordance with this Section:
 
-        -   form the Response Team;
+        - form the Response Team;
 
-        -   request the Third Party to send the information mentioned in
-            Subsections 10.2-3 of this Policy;
+        - request the Third Party to send the information mentioned in
+          Subsections 10.2-3 of this Policy;
 
-        -   where necessary, inform the Competent Supervisory Authority(-ies)
-            and Data Subjects; and
+        - where necessary, inform the Competent Supervisory Authority(-ies) and
+          Data Subjects; and
 
-        -   perform other steps of the Data Breach response procedure.
+        - perform other steps of the Data Breach response procedure.
 
 **List of Persons Briefed on Personal Data Protection Policy**
 
