@@ -41,11 +41,10 @@
 		transition: all 0.3s ease;
 
 		&:hover {
-			transform: scale(1.02);
-		}
-
-		&:active {
-			transform: scale(0.98);
+			box-shadow:
+				0 0 0 1px rgba(139, 75, 139, 0.5),
+				0 0 0 4px rgba(89, 48, 89, 1);
+			cursor: none;
 		}
 
 		&:hover,
