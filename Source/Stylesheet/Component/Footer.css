@@ -45,7 +45,7 @@
 		}
 
 		&:active {
-			transform: scale(0.98); /* Slight shrink effect when clicked */
+			transform: scale(0.98);
 		}
 
 		&:hover,
