@@ -1,3 +1,5 @@
+@import "@Stylesheet/Config.css";
+
 .article {
 	@apply prose prose-slate prose-h1:font-[#151515] mx-auto;
 
@@ -8,7 +10,7 @@
 	a,
 	.underline {
 		text-underline-position: under;
-		--text-shadow-color: theme("colors.white");
+		--text-shadow-color: var("--color-white");
 		text-shadow:
 			-1px 1px var(--text-shadow-color),
 			-1px 2px var(--text-shadow-color),

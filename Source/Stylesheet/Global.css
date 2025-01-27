@@ -9,7 +9,7 @@ body {
 }
 
 body {
-	@apply flex flex-grow flex-col tabular-nums text-[#151515] antialiased sm:subpixel-antialiased;
+	@apply flex flex-grow flex-col text-[#151515] tabular-nums antialiased sm:subpixel-antialiased;
 
 	font-variant-ligatures: no-common-ligatures;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 img {
-	@apply inline-block select-none align-top outline-none;
+	@apply inline-block align-top outline-none select-none;
 }
 
 @media (min-width: 768px) {

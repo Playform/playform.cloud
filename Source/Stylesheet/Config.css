@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@config "../../tailwind.config.js";
+
+@layer base {
+	:root {
+		--background-light: var("--color-white");
+		--background-dark: var("--color-black");
+	}
+}

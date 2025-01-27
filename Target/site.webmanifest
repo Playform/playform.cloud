@@ -1,0 +1,57 @@
+{
+	"background_color": "#eaeaea",
+	"categories": [],
+	"display": "minimal-ui",
+	"icons": [
+		{
+			"sizes": "36x36",
+			"src": "/Favicon/android-chrome-36x36.png?v=21",
+			"type": "image/png"
+		},
+		{
+			"sizes": "48x48",
+			"src": "/Favicon/android-chrome-48x48.png?v=21",
+			"type": "image/png"
+		},
+		{
+			"sizes": "72x72",
+			"src": "/Favicon/android-chrome-72x72.png?v=21",
+			"type": "image/png"
+		},
+		{
+			"sizes": "96x96",
+			"src": "/Favicon/android-chrome-96x96.png?v=21",
+			"type": "image/png"
+		},
+		{
+			"sizes": "144x144",
+			"src": "/Favicon/android-chrome-144x144.png?v=21",
+			"type": "image/png"
+		},
+		{
+			"sizes": "192x192",
+			"src": "/Favicon/android-chrome-192x192.png?v=21",
+			"type": "image/png"
+		},
+		{
+			"sizes": "256x256",
+			"src": "/Favicon/android-chrome-256x256.png?v=21",
+			"type": "image/png"
+		},
+		{
+			"sizes": "384x384",
+			"src": "/Favicon/android-chrome-384x384.png?v=21",
+			"type": "image/png"
+		},
+		{
+			"sizes": "512x512",
+			"src": "/Favicon/android-chrome-512x512.png?v=21",
+			"type": "image/png"
+		}
+	],
+	"name": "PlayForm",
+	"orientation": "landscape",
+	"short_name": "PlayForm",
+	"start_url": "/",
+	"theme_color": "#eaeaea"
+}

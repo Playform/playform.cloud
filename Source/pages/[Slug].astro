@@ -34,7 +34,7 @@ export const getStaticPaths = async () =>
 	}));
 
 const Slug = (
-	typeof Astro.params["Slug"] === "string" ? Astro.params["Slug"] : ""
+	typeof Astro.props["Slug"] === "string" ? Astro.props["Slug"] : ""
 )
 	.toLowerCase()
 	.replaceAll(" ", "-");
@@ -50,7 +50,7 @@ let Content: string,
 	Title = "";
 
 if (typeof File[0] !== "undefined") {
-	Content = File[0].compiledContent();
+	Content = await File[0].compiledContent();
 	Title = File[0].frontmatter["Title"];
 } else {
 	Content = "Not found.";
