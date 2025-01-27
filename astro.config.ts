@@ -42,6 +42,7 @@ export default (await import("astro/config")).defineConfig({
 			transformer: "postcss",
 		},
 		plugins: [
+			(await import("@tailwindcss/vite")).default(),
 			{
 				name: "crossorigin",
 				transform(Code, Identifier, _) {
