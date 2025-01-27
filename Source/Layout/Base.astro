@@ -2,6 +2,8 @@
 import Footer from "@Component/Footer.astro";
 import Header from "@Component/Header.astro";
 
+import "@Stylesheet/Base.css";
+
 import { Head } from "astro-capo";
 import { ClientRouter } from "astro:transitions";
 
@@ -139,7 +141,7 @@ const Link = (Link: string[] = []) =>
 			import "@Script/Firebase";
 		</script>
 		<a
-			class="absolute left-0 top-0 hidden"
+			class="absolute top-0 left-0 hidden"
 			rel="me"
 			href="HTTPS://mastodon.social/@nikolahristov"></a>
 	</body>
