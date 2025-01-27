@@ -1,5 +1,3 @@
-@import "@Stylesheet/Config.css";
-
 #main {
 	h1 {
 		@apply mb-8 text-3xl font-black md:text-6xl;
