@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 find_documents() {
 	\find src/content/en ! -iname "~*" -iname "*.docx" 2>/dev/null
