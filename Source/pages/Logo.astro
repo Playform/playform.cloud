@@ -1,0 +1,50 @@
+---
+import Layout from "@Layout/Base.astro";
+import Grid from "@Script/Grid.js";
+
+console.log(
+	Grid(
+		await (
+			await import("node:fs/promises")
+		).readFile("./Public/Bulgaria.svg", {
+			encoding: "utf-8",
+		}),
+	),
+);
+---
+
+<Layout>
+	<div class="flex flex-col">
+		<main class="flex grow justify-center">
+			<div class="flex grow self-center">
+				<div class="container sm:pb-36">
+					<div class="grid grid-cols-4 gap-4">
+						<div>
+							<h1>Original</h1>
+
+							<div class="w-52">
+								<picture>
+									<img
+										alt="Bulgaria"
+										src="/Bulgaria.svg"
+										class="h-auto w-auto max-w-full"
+									/>
+								</picture>
+							</div>
+						</div>
+						<div>
+							<h1>Converted</h1>
+
+							<div class="w-52"></div>
+						</div>
+						<div>
+							<h1>Downsampled</h1>
+
+							<div class="w-52"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+	</div>
+</Layout>
