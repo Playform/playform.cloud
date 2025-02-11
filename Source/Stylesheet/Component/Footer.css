@@ -16,7 +16,7 @@
 	}
 
 	a {
-		@apply ease-apple relative text-base transition-all duration-150 hover:text-blue-600 focus-visible:z-10 focus-visible:decoration-transparent focus-visible:outline-2 focus-visible:outline-blue-500 sm:text-sm;
+		@apply ease-Ease relative text-base transition-all duration-150 hover:text-blue-600 focus-visible:z-10 focus-visible:decoration-transparent focus-visible:outline-2 focus-visible:outline-blue-500 sm:text-sm;
 	}
 
 	.icon {

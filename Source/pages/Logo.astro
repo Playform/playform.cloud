@@ -1,9 +1,9 @@
 ---
 import Layout from "@Layout/Base.astro";
-import Grid from "@Script/Grid.js";
+import Matrix from "@Function/Matrix.js";
 
 console.log(
-	Grid(
+	Matrix(
 		await (
 			await import("node:fs/promises")
 		).readFile("./Public/Bulgaria.svg", {
@@ -18,7 +18,7 @@ console.log(
 		<main class="flex grow justify-center">
 			<div class="flex grow self-center">
 				<div class="container sm:pb-36">
-					<div class="grid grid-cols-4 gap-4">
+					<div class="grid grid-cols-3 gap-2 justify-items-center">
 						<div>
 							<h1>Original</h1>
 
@@ -35,12 +35,16 @@ console.log(
 						<div>
 							<h1>Converted</h1>
 
-							<div class="w-52"></div>
+							<div class="w-52">
+
+							</div>
 						</div>
 						<div>
 							<h1>Downsampled</h1>
 
-							<div class="w-52"></div>
+							<div class="w-52">
+
+							</div>
 						</div>
 					</div>
 				</div>
