@@ -3,6 +3,10 @@ import Base from "@Layout/Base.astro";
 
 import "@Stylesheet/Component/Article.css";
 
+interface Props {
+	Slug: string;
+}
+
 export const Capitalize = (Text: string) =>
 	Text.replace(/\b\w/g, (Text) => Text.toUpperCase());
 
