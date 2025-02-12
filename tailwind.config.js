@@ -1,4 +1,6 @@
-import { fontFamily } from "tailwindcss/defaultTheme";
+import { colors, fontFamily } from "tailwindcss/defaultTheme";
+
+console.log(colors);
 
 /** @type {import('tailwindcss').Config} */
 export default {
@@ -20,15 +22,20 @@ export default {
 			fontFamily: {
 				sans: ["Albert Sans", ...fontFamily.sans],
 			},
-			typography: {
+			typography: (theme) => ({
 				DEFAULT: {
 					css: {
 						a: {
 							"font-weight": "400",
 						},
+						li: {
+							"&::marker": {
+								color: theme("colors.red.500"),
+							},
+						},
 					},
 				},
-			},
+			}),
 			ringWidth: {
 				5: "5px",
 			},

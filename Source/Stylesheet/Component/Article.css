@@ -7,25 +7,11 @@
 
 	a,
 	.underline {
-		text-underline-position: under;
-		--text-shadow-color: theme("colors.white");
-		text-shadow:
-			-1px 1px var(--text-shadow-color),
-			-1px 2px var(--text-shadow-color),
-			-2px 1px var(--text-shadow-color),
-			-2px 2px var(--text-shadow-color),
-			0 1px var(--text-shadow-color),
-			0 2px var(--text-shadow-color),
-			1px 1px var(--text-shadow-color),
-			1px 2px var(--text-shadow-color),
-			2px 1px var(--text-shadow-color),
-			2px 2px var(--text-shadow-color);
-
-		@apply decoration-blue-600;
+		@apply underline-offset-8;
 	}
 
 	a {
-		@apply ease-Ease break-all decoration-blue-600 decoration-1 outline-none outline-offset-2 transition-all duration-150 hover:text-blue-600 focus-visible:decoration-transparent focus-visible:outline-2 focus-visible:outline-blue-500;
+		@apply ease-Ease break-all outline-none outline-offset-2 transition-all duration-150 hover:text-blue-600 focus-visible:decoration-transparent focus-visible:outline-2 focus-visible:outline-blue-500;
 	}
 
 	ul + h1 {
