@@ -1,6 +1,4 @@
-import { colors, fontFamily } from "tailwindcss/defaultTheme";
-
-console.log(colors);
+import { fontFamily } from "tailwindcss/defaultTheme";
 
 /** @type {import('tailwindcss').Config} */
 export default {
