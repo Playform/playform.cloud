@@ -95,6 +95,7 @@ export default (await import("astro/config")).defineConfig({
 				name: "CrossOrigin",
 				transform(Code, Identifier, _) {
 					const CrossOrigin =
+						Identifier.includes(".mjs") ||
 						Identifier.includes(".js") ||
 						Identifier.includes(".astro")
 							? `crossorigin=\\"anonymous\\"`
